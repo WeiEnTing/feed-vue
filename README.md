@@ -1,4 +1,4 @@
-# xmail
+# xmall
 
 ## Project setup
 ```
